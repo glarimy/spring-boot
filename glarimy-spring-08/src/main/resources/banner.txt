@@ -1,0 +1,4 @@
+${Ansi.RED} ================================
+${Ansi.RED}      GLARIMY DIRECTORY 7.0
+${Ansi.RED}         www.glarimy.com
+${Ansi.RED} ================================

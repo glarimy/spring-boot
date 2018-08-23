@@ -1,0 +1,288 @@
+2018-08-23 12:05:13,475 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] ENTRY org.aspectj.weaver.Lint@67545b57
+2018-08-23 12:05:13,477 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] ENTRY org.aspectj.weaver.reflect.ReflectionWorld@6c2c1385
+2018-08-23 12:05:13,481 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] RETURN
+2018-08-23 12:05:13,482 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] ENTRY org.aspectj.weaver.reflect.ReflectionWorld@6c2c1385
+2018-08-23 12:05:13,522 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] RETURN
+2018-08-23 12:05:13,529 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] ENTRY org.aspectj.weaver.Lint@1e097d59
+2018-08-23 12:05:13,529 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] ENTRY org.aspectj.weaver.reflect.ReflectionWorld@673be18f
+2018-08-23 12:05:13,529 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] RETURN
+2018-08-23 12:05:13,530 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] ENTRY org.aspectj.weaver.reflect.ReflectionWorld@673be18f
+2018-08-23 12:05:13,530 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] RETURN
+2018-08-23 12:05:13,971 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = JMImplementation:type=MBeanServerDelegate
+2018-08-23 12:05:13,972 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = JMImplementation:type=MBeanServerDelegate
+2018-08-23 12:05:13,972 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object JMImplementation:type=MBeanServerDelegate
+2018-08-23 12:05:13,973 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered JMImplementation:type=MBeanServerDelegate
+2018-08-23 12:05:13,975 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=ClassLoading
+2018-08-23 12:05:13,982 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.ClassLoadingImpl
+2018-08-23 12:05:13,982 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=ClassLoading
+2018-08-23 12:05:13,983 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=ClassLoading
+2018-08-23 12:05:13,983 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:type=ClassLoading
+2018-08-23 12:05:13,983 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=ClassLoading
+2018-08-23 12:05:13,984 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=Compilation
+2018-08-23 12:05:13,984 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.CompilationImpl
+2018-08-23 12:05:13,985 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=Compilation
+2018-08-23 12:05:13,985 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=Compilation
+2018-08-23 12:05:13,985 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:type=Compilation
+2018-08-23 12:05:13,985 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=Compilation
+2018-08-23 12:05:13,986 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=Memory
+2018-08-23 12:05:13,988 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryImpl
+2018-08-23 12:05:13,988 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=Memory
+2018-08-23 12:05:13,988 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=Memory
+2018-08-23 12:05:13,989 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:type=Memory
+2018-08-23 12:05:13,989 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=Memory
+2018-08-23 12:05:13,990 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=GarbageCollector,name=PS Scavenge
+2018-08-23 12:05:13,993 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.GarbageCollectorImpl
+2018-08-23 12:05:13,993 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=GarbageCollector,name=PS Scavenge
+2018-08-23 12:05:13,994 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=GarbageCollector,name=PS Scavenge
+2018-08-23 12:05:13,994 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=PS Scavenge,type=GarbageCollector
+2018-08-23 12:05:13,994 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=GarbageCollector,name=PS Scavenge
+2018-08-23 12:05:13,994 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=GarbageCollector,name=PS MarkSweep
+2018-08-23 12:05:13,995 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.GarbageCollectorImpl
+2018-08-23 12:05:13,995 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=GarbageCollector,name=PS MarkSweep
+2018-08-23 12:05:13,995 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=GarbageCollector,name=PS MarkSweep
+2018-08-23 12:05:13,995 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=PS MarkSweep,type=GarbageCollector
+2018-08-23 12:05:13,996 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=GarbageCollector,name=PS MarkSweep
+2018-08-23 12:05:13,996 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=MemoryManager,name=CodeCacheManager
+2018-08-23 12:05:13,996 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryManagerImpl
+2018-08-23 12:05:13,996 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=MemoryManager,name=CodeCacheManager
+2018-08-23 12:05:13,997 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=MemoryManager,name=CodeCacheManager
+2018-08-23 12:05:13,997 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=CodeCacheManager,type=MemoryManager
+2018-08-23 12:05:13,997 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=MemoryManager,name=CodeCacheManager
+2018-08-23 12:05:13,997 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=MemoryManager,name=Metaspace Manager
+2018-08-23 12:05:13,998 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryManagerImpl
+2018-08-23 12:05:13,998 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=MemoryManager,name=Metaspace Manager
+2018-08-23 12:05:13,998 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=MemoryManager,name=Metaspace Manager
+2018-08-23 12:05:13,998 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=Metaspace Manager,type=MemoryManager
+2018-08-23 12:05:13,998 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=MemoryManager,name=Metaspace Manager
+2018-08-23 12:05:13,999 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=GarbageCollector,name=PS Scavenge
+2018-08-23 12:05:13,999 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=GarbageCollector,name=PS MarkSweep
+2018-08-23 12:05:14,000 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=MemoryPool,name=Code Cache
+2018-08-23 12:05:14,002 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryPoolImpl
+2018-08-23 12:05:14,003 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=MemoryPool,name=Code Cache
+2018-08-23 12:05:14,003 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=MemoryPool,name=Code Cache
+2018-08-23 12:05:14,003 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=Code Cache,type=MemoryPool
+2018-08-23 12:05:14,003 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=MemoryPool,name=Code Cache
+2018-08-23 12:05:14,004 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=MemoryPool,name=Metaspace
+2018-08-23 12:05:14,004 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryPoolImpl
+2018-08-23 12:05:14,004 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=MemoryPool,name=Metaspace
+2018-08-23 12:05:14,005 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=MemoryPool,name=Metaspace
+2018-08-23 12:05:14,005 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=Metaspace,type=MemoryPool
+2018-08-23 12:05:14,005 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=MemoryPool,name=Metaspace
+2018-08-23 12:05:14,005 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=MemoryPool,name=Compressed Class Space
+2018-08-23 12:05:14,006 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryPoolImpl
+2018-08-23 12:05:14,006 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=MemoryPool,name=Compressed Class Space
+2018-08-23 12:05:14,006 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=MemoryPool,name=Compressed Class Space
+2018-08-23 12:05:14,006 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=Compressed Class Space,type=MemoryPool
+2018-08-23 12:05:14,006 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=MemoryPool,name=Compressed Class Space
+2018-08-23 12:05:14,007 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=MemoryPool,name=PS Eden Space
+2018-08-23 12:05:14,007 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryPoolImpl
+2018-08-23 12:05:14,007 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=MemoryPool,name=PS Eden Space
+2018-08-23 12:05:14,007 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=MemoryPool,name=PS Eden Space
+2018-08-23 12:05:14,008 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=PS Eden Space,type=MemoryPool
+2018-08-23 12:05:14,008 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=MemoryPool,name=PS Eden Space
+2018-08-23 12:05:14,008 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=MemoryPool,name=PS Survivor Space
+2018-08-23 12:05:14,008 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryPoolImpl
+2018-08-23 12:05:14,009 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=MemoryPool,name=PS Survivor Space
+2018-08-23 12:05:14,009 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=MemoryPool,name=PS Survivor Space
+2018-08-23 12:05:14,009 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=PS Survivor Space,type=MemoryPool
+2018-08-23 12:05:14,009 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=MemoryPool,name=PS Survivor Space
+2018-08-23 12:05:14,009 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=MemoryPool,name=PS Old Gen
+2018-08-23 12:05:14,010 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryPoolImpl
+2018-08-23 12:05:14,010 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=MemoryPool,name=PS Old Gen
+2018-08-23 12:05:14,010 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=MemoryPool,name=PS Old Gen
+2018-08-23 12:05:14,011 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=PS Old Gen,type=MemoryPool
+2018-08-23 12:05:14,011 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=MemoryPool,name=PS Old Gen
+2018-08-23 12:05:14,012 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=OperatingSystem
+2018-08-23 12:05:14,013 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.OperatingSystemImpl
+2018-08-23 12:05:14,013 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=OperatingSystem
+2018-08-23 12:05:14,013 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=OperatingSystem
+2018-08-23 12:05:14,014 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:type=OperatingSystem
+2018-08-23 12:05:14,014 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=OperatingSystem
+2018-08-23 12:05:14,015 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=Runtime
+2018-08-23 12:05:14,017 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.RuntimeImpl
+2018-08-23 12:05:14,018 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=Runtime
+2018-08-23 12:05:14,018 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=Runtime
+2018-08-23 12:05:14,018 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:type=Runtime
+2018-08-23 12:05:14,019 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=Runtime
+2018-08-23 12:05:14,020 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=Threading
+2018-08-23 12:05:14,023 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.ThreadImpl
+2018-08-23 12:05:14,024 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=Threading
+2018-08-23 12:05:14,025 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=Threading
+2018-08-23 12:05:14,025 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:type=Threading
+2018-08-23 12:05:14,025 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=Threading
+2018-08-23 12:05:14,026 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.util.logging:type=Logging
+2018-08-23 12:05:14,029 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.ManagementFactoryHelper$PlatformLoggingImpl
+2018-08-23 12:05:14,029 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.util.logging:type=Logging
+2018-08-23 12:05:14,030 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.util.logging:type=Logging
+2018-08-23 12:05:14,030 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.util.logging:type=Logging
+2018-08-23 12:05:14,030 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.util.logging:type=Logging
+2018-08-23 12:05:14,031 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.nio:type=BufferPool,name=direct
+2018-08-23 12:05:14,032 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.ManagementFactoryHelper$1
+2018-08-23 12:05:14,032 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.nio:type=BufferPool,name=direct
+2018-08-23 12:05:14,032 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.nio:type=BufferPool,name=direct
+2018-08-23 12:05:14,033 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.nio:name=direct,type=BufferPool
+2018-08-23 12:05:14,033 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.nio:type=BufferPool,name=direct
+2018-08-23 12:05:14,033 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.nio:type=BufferPool,name=mapped
+2018-08-23 12:05:14,034 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.ManagementFactoryHelper$1
+2018-08-23 12:05:14,034 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.nio:type=BufferPool,name=mapped
+2018-08-23 12:05:14,034 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.nio:type=BufferPool,name=mapped
+2018-08-23 12:05:14,035 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.nio:name=mapped,type=BufferPool
+2018-08-23 12:05:14,035 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.nio:type=BufferPool,name=mapped
+2018-08-23 12:05:14,036 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=GarbageCollector,name=PS Scavenge
+2018-08-23 12:05:14,036 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=GarbageCollector,name=PS MarkSweep
+2018-08-23 12:05:14,036 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=OperatingSystem
+2018-08-23 12:05:14,036 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=OperatingSystem
+2018-08-23 12:05:14,037 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = com.sun.management:type=HotSpotDiagnostic
+2018-08-23 12:05:14,038 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.HotSpotDiagnostic
+2018-08-23 12:05:14,039 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = com.sun.management:type=HotSpotDiagnostic
+2018-08-23 12:05:14,039 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = com.sun.management:type=HotSpotDiagnostic
+2018-08-23 12:05:14,039 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object com.sun.management:type=HotSpotDiagnostic
+2018-08-23 12:05:14,039 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered com.sun.management:type=HotSpotDiagnostic
+2018-08-23 12:05:14,077 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = com.sun.management:type=DiagnosticCommand
+2018-08-23 12:05:14,078 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = com.sun.management:type=DiagnosticCommand
+2018-08-23 12:05:14,078 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object com.sun.management:type=DiagnosticCommand
+2018-08-23 12:05:14,078 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered com.sun.management:type=DiagnosticCommand
+2018-08-23 12:06:45,416 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] ENTRY org.aspectj.weaver.Lint@60c6f5b
+2018-08-23 12:06:45,458 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] ENTRY org.aspectj.weaver.reflect.ReflectionWorld@2038ae61
+2018-08-23 12:06:45,458 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] RETURN
+2018-08-23 12:06:45,459 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] ENTRY org.aspectj.weaver.reflect.ReflectionWorld@2038ae61
+2018-08-23 12:06:45,477 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] RETURN
+2018-08-23 12:06:45,488 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] ENTRY org.aspectj.weaver.Lint@3c0f93f1
+2018-08-23 12:06:45,488 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] ENTRY org.aspectj.weaver.reflect.ReflectionWorld@31dc339b
+2018-08-23 12:06:45,489 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] RETURN
+2018-08-23 12:06:45,489 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] ENTRY org.aspectj.weaver.reflect.ReflectionWorld@31dc339b
+2018-08-23 12:06:45,489 DEBUG org.aspectj.weaver.tools.Jdk14Trace [main] RETURN
+2018-08-23 12:06:45,841 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = JMImplementation:type=MBeanServerDelegate
+2018-08-23 12:06:45,842 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = JMImplementation:type=MBeanServerDelegate
+2018-08-23 12:06:45,843 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object JMImplementation:type=MBeanServerDelegate
+2018-08-23 12:06:45,844 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered JMImplementation:type=MBeanServerDelegate
+2018-08-23 12:06:45,849 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=ClassLoading
+2018-08-23 12:06:45,857 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.ClassLoadingImpl
+2018-08-23 12:06:45,857 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=ClassLoading
+2018-08-23 12:06:45,858 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=ClassLoading
+2018-08-23 12:06:45,859 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:type=ClassLoading
+2018-08-23 12:06:45,859 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=ClassLoading
+2018-08-23 12:06:45,861 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=Compilation
+2018-08-23 12:06:45,861 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.CompilationImpl
+2018-08-23 12:06:45,862 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=Compilation
+2018-08-23 12:06:45,862 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=Compilation
+2018-08-23 12:06:45,862 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:type=Compilation
+2018-08-23 12:06:45,863 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=Compilation
+2018-08-23 12:06:45,864 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=Memory
+2018-08-23 12:06:45,869 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryImpl
+2018-08-23 12:06:45,869 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=Memory
+2018-08-23 12:06:45,870 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=Memory
+2018-08-23 12:06:45,870 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:type=Memory
+2018-08-23 12:06:45,871 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=Memory
+2018-08-23 12:06:45,873 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=GarbageCollector,name=PS Scavenge
+2018-08-23 12:06:45,876 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.GarbageCollectorImpl
+2018-08-23 12:06:45,877 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=GarbageCollector,name=PS Scavenge
+2018-08-23 12:06:45,877 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=GarbageCollector,name=PS Scavenge
+2018-08-23 12:06:45,877 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=PS Scavenge,type=GarbageCollector
+2018-08-23 12:06:45,877 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=GarbageCollector,name=PS Scavenge
+2018-08-23 12:06:45,878 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=GarbageCollector,name=PS MarkSweep
+2018-08-23 12:06:45,878 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.GarbageCollectorImpl
+2018-08-23 12:06:45,878 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=GarbageCollector,name=PS MarkSweep
+2018-08-23 12:06:45,879 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=GarbageCollector,name=PS MarkSweep
+2018-08-23 12:06:45,879 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=PS MarkSweep,type=GarbageCollector
+2018-08-23 12:06:45,879 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=GarbageCollector,name=PS MarkSweep
+2018-08-23 12:06:45,879 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=MemoryManager,name=CodeCacheManager
+2018-08-23 12:06:45,880 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryManagerImpl
+2018-08-23 12:06:45,880 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=MemoryManager,name=CodeCacheManager
+2018-08-23 12:06:45,880 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=MemoryManager,name=CodeCacheManager
+2018-08-23 12:06:45,881 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=CodeCacheManager,type=MemoryManager
+2018-08-23 12:06:45,881 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=MemoryManager,name=CodeCacheManager
+2018-08-23 12:06:45,881 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=MemoryManager,name=Metaspace Manager
+2018-08-23 12:06:45,881 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryManagerImpl
+2018-08-23 12:06:45,882 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=MemoryManager,name=Metaspace Manager
+2018-08-23 12:06:45,882 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=MemoryManager,name=Metaspace Manager
+2018-08-23 12:06:45,882 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=Metaspace Manager,type=MemoryManager
+2018-08-23 12:06:45,882 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=MemoryManager,name=Metaspace Manager
+2018-08-23 12:06:45,882 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=GarbageCollector,name=PS Scavenge
+2018-08-23 12:06:45,883 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=GarbageCollector,name=PS MarkSweep
+2018-08-23 12:06:45,884 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=MemoryPool,name=Code Cache
+2018-08-23 12:06:45,885 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryPoolImpl
+2018-08-23 12:06:45,886 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=MemoryPool,name=Code Cache
+2018-08-23 12:06:45,887 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=MemoryPool,name=Code Cache
+2018-08-23 12:06:45,887 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=Code Cache,type=MemoryPool
+2018-08-23 12:06:45,887 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=MemoryPool,name=Code Cache
+2018-08-23 12:06:45,888 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=MemoryPool,name=Metaspace
+2018-08-23 12:06:45,889 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryPoolImpl
+2018-08-23 12:06:45,889 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=MemoryPool,name=Metaspace
+2018-08-23 12:06:45,890 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=MemoryPool,name=Metaspace
+2018-08-23 12:06:45,890 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=Metaspace,type=MemoryPool
+2018-08-23 12:06:45,891 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=MemoryPool,name=Metaspace
+2018-08-23 12:06:45,891 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=MemoryPool,name=Compressed Class Space
+2018-08-23 12:06:45,892 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryPoolImpl
+2018-08-23 12:06:45,892 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=MemoryPool,name=Compressed Class Space
+2018-08-23 12:06:45,892 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=MemoryPool,name=Compressed Class Space
+2018-08-23 12:06:45,893 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=Compressed Class Space,type=MemoryPool
+2018-08-23 12:06:45,893 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=MemoryPool,name=Compressed Class Space
+2018-08-23 12:06:45,894 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=MemoryPool,name=PS Eden Space
+2018-08-23 12:06:45,894 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryPoolImpl
+2018-08-23 12:06:45,894 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=MemoryPool,name=PS Eden Space
+2018-08-23 12:06:45,894 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=MemoryPool,name=PS Eden Space
+2018-08-23 12:06:45,895 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=PS Eden Space,type=MemoryPool
+2018-08-23 12:06:45,895 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=MemoryPool,name=PS Eden Space
+2018-08-23 12:06:45,895 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=MemoryPool,name=PS Survivor Space
+2018-08-23 12:06:45,896 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryPoolImpl
+2018-08-23 12:06:45,896 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=MemoryPool,name=PS Survivor Space
+2018-08-23 12:06:45,896 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=MemoryPool,name=PS Survivor Space
+2018-08-23 12:06:45,897 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=PS Survivor Space,type=MemoryPool
+2018-08-23 12:06:45,897 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=MemoryPool,name=PS Survivor Space
+2018-08-23 12:06:45,898 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=MemoryPool,name=PS Old Gen
+2018-08-23 12:06:45,898 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.MemoryPoolImpl
+2018-08-23 12:06:45,898 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=MemoryPool,name=PS Old Gen
+2018-08-23 12:06:45,899 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=MemoryPool,name=PS Old Gen
+2018-08-23 12:06:45,899 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:name=PS Old Gen,type=MemoryPool
+2018-08-23 12:06:45,899 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=MemoryPool,name=PS Old Gen
+2018-08-23 12:06:45,901 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=OperatingSystem
+2018-08-23 12:06:45,903 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.OperatingSystemImpl
+2018-08-23 12:06:45,903 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=OperatingSystem
+2018-08-23 12:06:45,904 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=OperatingSystem
+2018-08-23 12:06:45,904 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:type=OperatingSystem
+2018-08-23 12:06:45,904 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=OperatingSystem
+2018-08-23 12:06:45,905 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=Runtime
+2018-08-23 12:06:45,907 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.RuntimeImpl
+2018-08-23 12:06:45,908 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=Runtime
+2018-08-23 12:06:45,908 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=Runtime
+2018-08-23 12:06:45,909 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:type=Runtime
+2018-08-23 12:06:45,909 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=Runtime
+2018-08-23 12:06:45,911 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=Threading
+2018-08-23 12:06:45,917 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.ThreadImpl
+2018-08-23 12:06:45,917 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.lang:type=Threading
+2018-08-23 12:06:45,918 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.lang:type=Threading
+2018-08-23 12:06:45,918 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.lang:type=Threading
+2018-08-23 12:06:45,918 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.lang:type=Threading
+2018-08-23 12:06:45,919 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.util.logging:type=Logging
+2018-08-23 12:06:45,920 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.ManagementFactoryHelper$PlatformLoggingImpl
+2018-08-23 12:06:45,921 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.util.logging:type=Logging
+2018-08-23 12:06:45,921 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.util.logging:type=Logging
+2018-08-23 12:06:45,921 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.util.logging:type=Logging
+2018-08-23 12:06:45,921 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.util.logging:type=Logging
+2018-08-23 12:06:45,926 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.nio:type=BufferPool,name=direct
+2018-08-23 12:06:45,927 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.ManagementFactoryHelper$1
+2018-08-23 12:06:45,928 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.nio:type=BufferPool,name=direct
+2018-08-23 12:06:45,928 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.nio:type=BufferPool,name=direct
+2018-08-23 12:06:45,928 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.nio:name=direct,type=BufferPool
+2018-08-23 12:06:45,929 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.nio:type=BufferPool,name=direct
+2018-08-23 12:06:45,929 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.nio:type=BufferPool,name=mapped
+2018-08-23 12:06:45,929 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.ManagementFactoryHelper$1
+2018-08-23 12:06:45,930 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = java.nio:type=BufferPool,name=mapped
+2018-08-23 12:06:45,930 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = java.nio:type=BufferPool,name=mapped
+2018-08-23 12:06:45,931 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object java.nio:name=mapped,type=BufferPool
+2018-08-23 12:06:45,931 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered java.nio:type=BufferPool,name=mapped
+2018-08-23 12:06:45,931 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=GarbageCollector,name=PS Scavenge
+2018-08-23 12:06:45,932 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=GarbageCollector,name=PS MarkSweep
+2018-08-23 12:06:45,932 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=OperatingSystem
+2018-08-23 12:06:45,932 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = java.lang:type=OperatingSystem
+2018-08-23 12:06:45,933 DEBUG com.sun.jmx.mbeanserver.Repository [main]  name = com.sun.management:type=HotSpotDiagnostic
+2018-08-23 12:06:45,934 DEBUG javax.management.StandardMBean [main] Building MBeanInfo for sun.management.HotSpotDiagnostic
+2018-08-23 12:06:45,935 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = com.sun.management:type=HotSpotDiagnostic
+2018-08-23 12:06:45,935 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = com.sun.management:type=HotSpotDiagnostic
+2018-08-23 12:06:45,935 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object com.sun.management:type=HotSpotDiagnostic
+2018-08-23 12:06:45,936 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered com.sun.management:type=HotSpotDiagnostic
+2018-08-23 12:06:45,942 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] ObjectName = com.sun.management:type=DiagnosticCommand
+2018-08-23 12:06:45,943 DEBUG com.sun.jmx.mbeanserver.Repository [main] name = com.sun.management:type=DiagnosticCommand
+2018-08-23 12:06:45,943 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] Send create notification of object com.sun.management:type=DiagnosticCommand
+2018-08-23 12:06:45,944 DEBUG com.sun.jmx.interceptor.DefaultMBeanServerInterceptor [main] JMX.mbean.registered com.sun.management:type=DiagnosticCommand
