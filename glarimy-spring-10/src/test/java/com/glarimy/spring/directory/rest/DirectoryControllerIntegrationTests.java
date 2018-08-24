@@ -1,6 +1,7 @@
 package com.glarimy.spring.directory.rest;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.fail;
+import static org.junit.Assert.assertTrue;
 
 import java.net.URI;
 
@@ -19,7 +20,12 @@ public class DirectoryControllerIntegrationTests {
 		RestTemplate restTemplate = new RestTemplate();
 		URI uri = restTemplate.postForLocation("http://localhost:2310/glarimy/directory/employee", employee,
 				Employee.class);
-		assertEquals("http://localhost:2310/glarimy/directory/employee/1", uri);
+		String path = uri.getPath();
+		try {
+			assertTrue(Integer.parseInt(path.substring(path.lastIndexOf("/") + 1)) > 0);
+		} catch (NumberFormatException nfe) {
+			fail("id is invalid");
+		}
 	}
 
 }

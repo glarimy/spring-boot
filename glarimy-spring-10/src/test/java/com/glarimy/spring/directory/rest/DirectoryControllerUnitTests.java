@@ -1,6 +1,8 @@
 package com.glarimy.spring.directory.rest;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.fail;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -40,6 +42,11 @@ public class DirectoryControllerUnitTests {
 		MvcResult result = web.perform(requestBuilder).andReturn();
 		MockHttpServletResponse response = result.getResponse();
 		assertEquals(HttpStatus.CREATED.value(), response.getStatus());
-		assertEquals("http://localhost/directory/employee/0", response.getHeader(HttpHeaders.LOCATION));
+		String path = response.getHeader(HttpHeaders.LOCATION);
+		try {
+			assertTrue(Integer.parseInt(path.substring(path.lastIndexOf("/") + 1)) == 0);
+		} catch (NumberFormatException nfe) {
+			fail("id is invalid");
+		}
 	}
 }
